@@ -1,14 +1,17 @@
 
-UTMパラメータのutm_source、utm_mediumで判定
+パターン１
+UTMパラメータのutm_source、utm_mediumで判定する
  - 検索連動型広告
  - アフィリエイト
  - アドネットワーク
 
-ドメインで判定
+パターン２
+リファラ―のドメインで判定する
  - 検索エンジン（リファラ―ドメインが、search.yahoo.co.jp/www.google.co.jp）
  - ソーシャルメディア（リファラードメインが、twitter.com/www.facebook.com）
  - その他サイト（上記で当てはまらないのはother）
- 
+
+
         stamp        | short_session | long_session |                                url                                 |             referrer
 ---------------------+---------------+--------------+--------------------------------------------------------------------+-----------------------------------
  2016-10-01 12:00:00 | 0CVKaz        | 1CwlSX       | http://www.example.com/?utm_source=google&utm_medium=search        | http://www.google.co.jp/xxx
