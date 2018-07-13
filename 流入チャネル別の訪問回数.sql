@@ -26,5 +26,9 @@ UTMパラメータのutm_source、utm_mediumで判定
  2016-10-02 16:00:00 | 3cv4gm        | KBlKgT       | http://www.example.com/list/newly                                  | http://search.yahoo.co.jp/xxx
  2016-10-02 17:00:00 | 3cv4gm        | KBlKgT       | http://www.example.com/                                            | https://www.facebook.com/xxx
  2016-10-02 18:00:00 | 690mvB        | FGkTe9       | http://www.example.com/list/dvd?utm_source=yahoo&utm_medium=search | http://www.yahoo.co.jp/xxx
+ 2016-10-03 12:00:00 | 6oABhM        | 3JMO2k       | http://www.example.com/detail?id=3                                 | http://search.yahoo.co.jp/xxx
+ 2016-10-03 13:00:00 | 7jjxQX        | KKTw9P       | http://www.example.com/?utm_source=mynavi&utm_medium=affiliate     | http://www.mynavi.jp/xxx
+ 2016-10-03 14:00:00 | AAuoEU        | 6SN6DD       | http://www.example.com/list/dvd                                    | https://www.facebook.com/xxx
+ 2016-10-03 15:00:00 | AAuoEU        | 6SN6DD       | http://www.example.com/list/newly                                  |
 (19 行)
 
